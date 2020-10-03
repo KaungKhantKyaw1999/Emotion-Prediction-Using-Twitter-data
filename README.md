@@ -8,6 +8,6 @@ This project is the extraction of the human emotions from the text. The extracte
 ||Precision|	Recall|	F1-score|
 |--|----------|:-------------:|------:|
 |Disappointed |	99%|	96%	|98%|
-Angry	93%	93%	93%
-Happy	93%	93%	92%
+|Angry|	93%|	93%|	93%|
+|Happy|	93%	|93%	|92%|
 
