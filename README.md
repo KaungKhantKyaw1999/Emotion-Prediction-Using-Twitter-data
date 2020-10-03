@@ -6,6 +6,7 @@ This project is the extraction of the human emotions from the text. The extracte
 - "Reload" is the program that reloads the results of "My One" and able to use anytime. (*This program is created to resuse the classifier easily*)
 <table>
 ||Precision|	Recall|	F1-score|
+|--|----------|:-------------:|------:|
 |Disappointed |	99%|	96%	|98%|
 Angry	93%	93%	93%
 Happy	93%	93%	92%
