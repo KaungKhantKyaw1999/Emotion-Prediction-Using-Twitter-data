@@ -5,7 +5,10 @@ This project is the extraction of the human emotions from the text. The extracte
 - "My One" is the program that classifies the cleaned data to the emotions. RNN-LSTM with attention mechanism is applied in this program. Although this program is a classifier program. It can produce the results one time and difficult to reuse after closing the program. So, "Reload" program is created.
 - "Reload" is the program that reloads the results of "My One" and able to use anytime. (*This program is created to resuse the classifier easily*)
 
-<h3>Confusion Matrix</h3>
+
+
+
+<h3>Confusion Matrix of My dataset</h3>
 
 
 ||Precision|	Recall|	F1-score|
