@@ -6,6 +6,8 @@ This project is the extraction of the human emotions from the text. The extracte
 - "Reload" is the program that reloads the results of "My One" and able to use anytime. (*This program is created to resuse the classifier easily*)
 
 <h3>Confusion Matrix</h3>
+
+
 ||Precision|	Recall|	F1-score|
 |--|----------|:-------------:|------:|
 |Disappointed |	99%|	96%	|98%|
