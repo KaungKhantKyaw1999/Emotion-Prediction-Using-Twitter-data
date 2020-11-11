@@ -8,7 +8,7 @@ This project is the extraction of the human emotions from the text. The extracte
 
 
 
-<h3>Confusion Matrix of My dataset</h3>
+<h3>Confusion Matrix of My Model</h3>
 
 
 ||Precision|	Recall|	F1-score|
